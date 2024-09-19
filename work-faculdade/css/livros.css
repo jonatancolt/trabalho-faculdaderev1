@@ -1,0 +1,7 @@
+.important {
+    color: #7b7b7b !important;
+    font-weight: bolder;
+    cursor: pointer !important;
+    padding: 15px;
+    display: block;
+}
